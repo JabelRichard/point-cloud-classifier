@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+
+# Local Streamlit settings
+.streamlit/
+
+# HTML plots created by explore.py
+car.html
+pedestrian.html
